@@ -22,3 +22,4 @@ Android Apps (Android is now Kotlin First)
   - Functional Language -  Kotlin is a functional language. Concepts like Lambda functions, Higher-Order Function, First-class functions are supported in Kotlin as well. 
   - Interoperability with Java - Kotlin is 100% interoperable with Java. You can have Kotlin code as well as Java code in one project. You can even call Java code from     Kotlin.
   - Safe Language, Concise, Powerful 
+"# h4xor7.github.io" 
